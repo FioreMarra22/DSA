@@ -8,8 +8,8 @@
 Array, Hash Table, String, Sorting
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 8 ms
+- **Memory:** 49.6 MB
 
 ---
 
